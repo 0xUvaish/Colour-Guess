@@ -7,5 +7,5 @@ This is a basic colour guessing game in which you will be given the RGB values o
 * [Bootstrap V3.3.7](https://getbootstrap.com/docs/3.3/components/) and [Semantic UI](https://semantic-ui.com/) - Used for styling purposes.
 
 ## Developer
-* **Mohd Uvaish Siddiqui** 
+**Mohd Uvaish Siddiqui** 
 <br>   [Linkedin](https://www.linkedin.com/in/usvr/)
